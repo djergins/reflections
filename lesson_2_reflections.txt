@@ -7,4 +7,8 @@ How is the staging area different from the working directory and the repository?
 
 The staging area is where you place files that you intend to commit to your git repository. This is useful because it gives you the ability to customize what you wish to commit to your repo.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+Commit only the changes that are pertinent to the logical change that you wish to implement. 
+
 
