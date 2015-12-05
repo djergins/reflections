@@ -21,3 +21,7 @@ Branching is convenient for making changes on a repository and having the flexib
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 Having a copy of the last known state of remote will let you know where you are locally from a history perspective compared to where the remote repository was. 
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I have only ever collaborated using some form of version control. The best I can say without getting obnoxiously long-winded is that the level of communication necessary would be great and you would have to stay in constant contact with your peers to perform code reviews with one another and see where each of you are on work to avoid crashing the production version of the product.
