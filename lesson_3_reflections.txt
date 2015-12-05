@@ -17,3 +17,7 @@ Fork makes copying remote repositories and pulling them down much easier in Gith
 cloning works well for pulling a copy of code locally and also making copies on your workstation.
 
 Branching is convenient for making changes on a repository and having the flexibility to easily revert to earlier states while allowing others to make their own changes on either branch master or their own branches that they have created off of branch master. 
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Having a copy of the last known state of remote will let you know where you are locally from a history perspective compared to where the remote repository was. 
