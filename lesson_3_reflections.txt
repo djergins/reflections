@@ -25,3 +25,7 @@ Having a copy of the last known state of remote will let you know where you are 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 I have only ever collaborated using some form of version control. The best I can say without getting obnoxiously long-winded is that the level of communication necessary would be great and you would have to stay in constant contact with your peers to perform code reviews with one another and see where each of you are on work to avoid crashing the production version of the product.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+You would want changes in a separate branch when you are wanting to experiement with a new concept and see if it works before merging it directly in to master. This can be approved by other members of the community before simply throwing it into master and making it the production version.
